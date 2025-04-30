@@ -10,4 +10,6 @@ https://physionet.org/content/ecg-arrhythmia/1.0.0/#files-panel
 A Random Forest classifier was used to detect three different types or arrhythmia (Sinus Bradycardia - Sinus Tachycardia - Atrial Fibrillation).
 
 ## Demo
+![image](https://github.com/user-attachments/assets/27552227-74d0-4d1c-b945-dca3751c582e)
+
 https://github.com/user-attachments/assets/2f352a42-8762-43ad-b19f-22ddb978d600
